@@ -1,0 +1,16 @@
+{
+  "name": "greetings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node greetings.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.5.11",
+    "web3": "^1.2.1"
+  }
+}
