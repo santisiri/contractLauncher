@@ -1,3 +1,5 @@
+// Simple contract launcher.
+
 let Web3 = require('web3');
 let solc = require('solc');
 let fs = require('fs');
